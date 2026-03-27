@@ -16,3 +16,5 @@ All exercises use real AWS resources — every phase has its own folder.
 ## Cost policy
 All exercises are designed to be near-zero cost.
 Resources are destroyed after each exercise.
+
+##
