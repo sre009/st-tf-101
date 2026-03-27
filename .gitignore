@@ -4,7 +4,6 @@
 *.tfstate
 *.tfstate.backup
 .terraform/
-.terraform.lock.hcl
 
 # Variable files that may contain secrets
 *.tfvars
@@ -17,3 +16,7 @@ crash.*.log
 # Override files
 override.tf
 override.tf.json
+
+# Saved plan files
+tfplan
+*.tfplan
